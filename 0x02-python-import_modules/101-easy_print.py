@@ -1,2 +1,2 @@
-#!/usr/bin/python
-import printpythoniscool_101
+#!/usr/bin/python3
+import trying
