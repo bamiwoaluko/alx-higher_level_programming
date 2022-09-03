@@ -1,5 +1,3 @@
 #!/usr/bin/python3
-def pythoniscool():
-    print("#pythoniscool")
-
-pythoniscool()
+import sys
+sys.stdout.write('#pythoniscool\n')
