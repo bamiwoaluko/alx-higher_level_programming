@@ -2,5 +2,5 @@
 if __name__ == "__main__":
     import variable_load_5
 
-    a = varibale_load_5.a
+    a = variable_load_5.a
     print("{}".format(a))
